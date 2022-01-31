@@ -1,0 +1,17 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Top_Proga2"
+include ':app'
+include ':p0011firstproject'
+include ':p0041basicviews'
+include ':p0051layoutliles'
+include ':P0061_Layouts'
+include ':p0072_LayoutProp'
+include ':P0081_ViewByld'
+include ':p0091_OnClickButtons'

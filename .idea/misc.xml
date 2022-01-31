@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DLyaProgramm/P0061_Layouts/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/DLyaProgramm/P0061_Layouts/src/main/res/layout/layout.xml" value="0.20208333333333334" />
+        <entry key="..\:/DLyaProgramm/P0061_Layouts/src/main/res/layout/rlayout.xml" value="0.33" />
+        <entry key="..\:/DLyaProgramm/P0061_Layouts/src/main/res/layout/tlayout.xml" value="0.33" />
+        <entry key="..\:/DLyaProgramm/P0081_ViewByld/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/DLyaProgramm/p0011firstproject/src/main/res/layout/activity_main.xml" value="0.24048913043478262" />
+        <entry key="..\:/DLyaProgramm/p0041basicviews/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DLyaProgramm/p0051layoutliles/src/main/res/layout-land/myscreen.xml" value="0.25" />
+        <entry key="..\:/DLyaProgramm/p0051layoutliles/src/main/res/layout/activity_main.xml" value="0.22010869565217392" />
+        <entry key="..\:/DLyaProgramm/p0051layoutliles/src/main/res/layout/myscreen.xml" value="0.22" />
+        <entry key="..\:/DLyaProgramm/p0072_layoutprop/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/DLyaProgramm/p0072_layoutprop/src/main/res/layout/grlayout.xml" value="0.20208333333333334" />
+        <entry key="..\:/DLyaProgramm/p0072_layoutprop/src/main/res/layout/margin_layout.xml" value="0.20208333333333334" />
+        <entry key="..\:/DLyaProgramm/p0091_OnClickButtons/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
